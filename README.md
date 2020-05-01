@@ -1,4 +1,4 @@
-# onesignalcm
+# One Signal Cloud Messaging
 
 A Flutter application to demonstrate One Signal cloud messaging.
 
